@@ -8,6 +8,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Weather Forecast Website
 ### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/126895218-7088ce01-c0d9-4180-be2f-8a2ed2d8a36e.png)
+## Day 3
+### Drawing App For Kids
+![image](https://user-images.githubusercontent.com/76655696/127023265-a7cc4eff-0ac8-4a1e-b2d7-5ddacb963d24.png)
 #### Take a glimpse here.
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
