@@ -24,6 +24,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Tip Calculator
 ### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/127451514-bebb53b4-f580-4c2e-a66e-11bd3c1377c0.png)
+## Day 7
+### Here is the view
+![image](https://user-images.githubusercontent.com/76655696/127667925-46247d0e-903b-4d1d-9830-7e0c3bb4f1ec.png)
 #### Take a glimpse here.
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
