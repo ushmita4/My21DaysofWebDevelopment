@@ -30,7 +30,12 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ![image](https://user-images.githubusercontent.com/76655696/127667925-46247d0e-903b-4d1d-9830-7e0c3bb4f1ec.png)
 ## Day 8
 ### Survey Form
+### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/127746955-57cf6926-ef6f-42c2-9ba5-0673b41f398a.png)
-#### Take a glimpse here.
+## Day 9
+### Glass Morphism
+### Here is the view
+![image](https://user-images.githubusercontent.com/76655696/127778653-57c39b8f-3f94-42bb-a5a1-bec4e7e393eb.png)
+#### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
