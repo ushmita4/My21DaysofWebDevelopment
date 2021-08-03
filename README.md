@@ -36,6 +36,10 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Glass Morphism
 ### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/127778653-57c39b8f-3f94-42bb-a5a1-bec4e7e393eb.png)
+## Day 10
+### Palindrome Checker
+### Here is the view
+![image](https://user-images.githubusercontent.com/76655696/127894156-579a1fdc-3848-4b52-968a-fb922dfd10d8.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
