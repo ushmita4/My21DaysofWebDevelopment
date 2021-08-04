@@ -40,6 +40,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Palindrome Checker
 ### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/127894156-579a1fdc-3848-4b52-968a-fb922dfd10d8.png)
+## Day 11
+### Plain 3-D Boxes
+<img width="959" alt="3-D Boxes" src="https://user-images.githubusercontent.com/76655696/128217022-9a26ea46-e2f3-4690-834d-9b752be991f4.png">
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
