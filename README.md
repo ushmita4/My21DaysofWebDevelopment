@@ -52,6 +52,10 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Drag and Drop
 ### Here is the view
 ![image](https://user-images.githubusercontent.com/76655696/128391927-a90acb29-65c6-49db-b220-01fd697d1b4f.png)
+## Day 14
+### Image Carousel
+### Here is the view
+![image](https://user-images.githubusercontent.com/76655696/128541068-996f59dc-9821-4698-898f-8febb962f51b.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
