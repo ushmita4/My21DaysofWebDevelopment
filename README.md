@@ -43,7 +43,7 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ## Day 11
 ### Plain 3-D Boxes
 ### Here is the view
-<img width="959" alt="3-D Boxes" src="https://user-images.githubusercontent.com/76655696/128217022-9a26ea46-e2f3-4690-834d-9b752be991f4.png">
+<img width="959" alt="3-D Boxes" src="https://user-images.githubusercontent.com/76655696/128217022-9a26ea46-e2f3-4690-834d-9b752be991f4.png"></img>
 ## Day 12
 ### Drink Water
 ### Here is the view
