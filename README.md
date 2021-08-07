@@ -23,7 +23,7 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ## Day 6
 ### Tip Calculator
 ### Here is the view
-![image](https://user-images.githubusercontent.com/76655696/127451514-bebb53b4-f580-4c2e-a66e-11bd3c1377c0.png)
+<img width="958" alt="Tip Calculator" src="https://user-images.githubusercontent.com/76655696/128588303-9f7f65d3-a88d-4ca9-a96d-e8f600c20984.png">
 ## Day 7
 ### Stop Watch
 ### Here is the view
