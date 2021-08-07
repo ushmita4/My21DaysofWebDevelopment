@@ -19,11 +19,11 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ## Day 5
 ### Digital Calculator
 ### Here is the view
-<img width="958" alt="Digital Clock" src="https://user-images.githubusercontent.com/76655696/127363313-8a28889c-9a28-4603-a68a-d46bf12b05eb.png">
+<img width="958" alt="Digital Clock" src="https://user-images.githubusercontent.com/76655696/127363313-8a28889c-9a28-4603-a68a-d46bf12b05eb.png"></img>
 ## Day 6
 ### Tip Calculator
 ### Here is the view
-![image](https://user-images.githubusercontent.com/76655696/127451514-bebb53b4-f580-4c2e-a66e-11bd3c1377c0.png)
+<img width="958" alt="Tip Calculator" src="https://user-images.githubusercontent.com/76655696/128588303-9f7f65d3-a88d-4ca9-a96d-e8f600c20984.png"></img>
 ## Day 7
 ### Stop Watch
 ### Here is the view
@@ -43,7 +43,7 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ## Day 11
 ### Plain 3-D Boxes
 ### Here is the view
-<img width="959" alt="3-D Boxes" src="https://user-images.githubusercontent.com/76655696/128217022-9a26ea46-e2f3-4690-834d-9b752be991f4.png">
+<img width="959" alt="3-D Boxes" src="https://user-images.githubusercontent.com/76655696/128217022-9a26ea46-e2f3-4690-834d-9b752be991f4.png"></img>
 ## Day 12
 ### Drink Water
 ### Here is the view
