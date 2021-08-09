@@ -59,6 +59,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Day 15
 ### Expanding Cards
 ![image](https://user-images.githubusercontent.com/76655696/128608009-44553d50-96fc-4376-a706-7753feee4347.png)
+### Day 16
+### Scroll Animation
+![image](https://user-images.githubusercontent.com/76655696/128638924-c59a5a7c-847a-4e55-a7ec-d890ee0e4aee.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
