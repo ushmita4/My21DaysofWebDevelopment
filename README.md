@@ -62,6 +62,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Day 16
 ### Scroll Animation
 ![image](https://user-images.githubusercontent.com/76655696/128638924-c59a5a7c-847a-4e55-a7ec-d890ee0e4aee.png)
+### Day 17
+### BackGround Slider
+![image](https://user-images.githubusercontent.com/76655696/128741693-611be718-0ff5-4919-a88f-afa08cadd838.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
