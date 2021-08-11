@@ -68,6 +68,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Day 18
 ### Blurry Background Loading
 ![Screenshot (93)](https://user-images.githubusercontent.com/76655696/128901918-c8e2177a-4f15-49d9-8449-b2d63d8dbd31.png)
+### Day 19
+### Insect Catch Game
+![Screenshot (94)](https://user-images.githubusercontent.com/76655696/129063213-c853dfff-643d-46fd-a6ae-af8c0502c25a.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
