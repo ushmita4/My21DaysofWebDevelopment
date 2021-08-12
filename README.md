@@ -71,6 +71,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Day 19
 ### Insect Catch Game
 ![Screenshot (94)](https://user-images.githubusercontent.com/76655696/129063213-c853dfff-643d-46fd-a6ae-af8c0502c25a.png)
+### Day 20
+### Random Quote Generator
+![image](https://user-images.githubusercontent.com/76655696/129236755-546e04e3-f144-42f9-9423-a765a246d43f.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
