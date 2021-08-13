@@ -74,6 +74,9 @@ Here I will be adding 21 days of my Web Development practice. Here I will be bui
 ### Day 20
 ### Random Quote Generator
 ![image](https://user-images.githubusercontent.com/76655696/129236755-546e04e3-f144-42f9-9423-a765a246d43f.png)
+### Day 21
+### Password Generator
+![image](https://user-images.githubusercontent.com/76655696/129394713-2e083466-b940-479f-bc9f-cea7cbf4eeb2.png)
 #### Take a glimpse here
 👁️ https://ushmita4.github.io/My21DaysofWebDevelopment/
 #### Thank You
